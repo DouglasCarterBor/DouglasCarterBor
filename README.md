@@ -114,7 +114,7 @@ I'm a **Systems Analyst and Developer** with extensive experience in building sc
   <a href="mailto:douglasbordignon8@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/douglasbordignon">
+  <a href="https://linkedin.com/in/douglasbordignon](https://www.linkedin.com/in/douglas-carteri-bordignon-272b4115b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
