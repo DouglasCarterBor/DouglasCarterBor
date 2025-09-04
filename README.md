@@ -93,13 +93,6 @@ I'm a **Systems Analyst and Developer** with extensive experience in building sc
 - **Team Leadership:** Managed cross-functional teams in agile environments
 - **Project Management:** Full lifecycle project delivery from conception to deployment
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DouglasCarterBor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasCarterBor&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
 ## 🏆 Key Achievements
 
 - ⚡ Optimized industrial weighing processes from 10 minutes to under 1 minute
